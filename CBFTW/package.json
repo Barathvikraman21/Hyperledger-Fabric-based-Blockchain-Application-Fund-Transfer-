@@ -1,0 +1,24 @@
+{
+    "name": "banks",
+    "version": "1.0.0",
+    "description": "Hyperledger Fabric banks Sample Application",
+    "main": "banks.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "fabric-ca-client": "^1.4.0",
+        "fabric-client": "^1.4.0",
+        "socket.io": "^2.3.0"
+    },
+    "author": "Archstrategy",
+    "license": "Apache-2.0",
+    "keywords": [
+        "Hyperledger",
+        "Fabric",
+        "banks",
+        "Sample",
+        "Application"
+    ]
+}
